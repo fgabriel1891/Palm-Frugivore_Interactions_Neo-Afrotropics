@@ -1,4 +1,4 @@
 { 
-  "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature."
+  "_comment": "Palm Frugivore seed dispersal interactions at macroscales. See http://github.com/fgabriel1891/Palm-Frugivore_Interactions_Neo-Afrotropics for more information.",
+  "citation": "Muñoz, G., Trøjelsgaard, K., & W.D. Kissling. 2018. A synthesis of animal-mediated seed dispersal of palms reveals distinct biogeographic differences in species interactions. Journal of Biogeography (in progress)"
 }
