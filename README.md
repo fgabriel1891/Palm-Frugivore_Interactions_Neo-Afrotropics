@@ -6,7 +6,7 @@
 
 ## Animal mediated Palm-Frugivore seed dispersal interactions for the Neotropics and Afrotropics
 
-This is the https://globalbioticinteractions.org integration of the dataset on palm-frugivore mutualistic seed dispersal interactions mined from published literature for the Neotropics and Afrotopics. You can find the dataset [here](https://www.globalbioticinteractions.org/?accordingTo=globi%3Afgabriel1891%2FPalm-Frugivore_Interactions_Neo-Afrotropics&interactionType=interactsWith)
+This is the https://globalbioticinteractions.org integration of the dataset on palm-frugivore mutualistic seed dispersal interactions mined from published literature for the Neotropics and Afrotopics. You can explore the dataset through GloBi [here](https://www.globalbioticinteractions.org/?accordingTo=globi%3Afgabriel1891%2FPalm-Frugivore_Interactions_Neo-Afrotropics&interactionType=interactsWith) or by cliking the GloBi batch at the top. 
 
 This dataset comes as an integral part of the following scientific publication: 
  > Muñoz, G., Trøjelsgaard, K., & W.D. Kissling. 2018. A synthesis of animal-mediated seed dispersal of palms reveals distinct biogeographic differences in species interactions. Journal of Biogeography (*in progress*) 
